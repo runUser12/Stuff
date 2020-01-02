@@ -1,0 +1,22 @@
+[
+    {
+        "name": "John",
+        "age": 30,
+        "state": "Oklahoma"
+    },
+    {
+        "name": "Brad",
+        "age": 21,
+        "state": "California"
+    },
+    {
+        "name": "David",
+        "age": 29,
+        "state": "New York"
+    },
+    {
+        "name": "Alan",
+        "age": 32,
+        "state": "Alaska"
+    }
+]
